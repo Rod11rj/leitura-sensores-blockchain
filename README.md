@@ -1,6 +1,6 @@
 # Blockchain para Leitura de Sensores
 
-
+DOI 10.5281/zenodo.24558165
 
 Protótipo de blockchain permissionada, em Python, para registrar de forma íntegra e verificável leituras de sensores (temperatura) em infraestruturas críticas . Código desenvolvido no Trabalho de Conclusão de Curso *"Aplicabilidade da Tecnologia do Blockchain na Marinha do Brasil"* (CIAA, 2023) – Apêndices A e B.
 
