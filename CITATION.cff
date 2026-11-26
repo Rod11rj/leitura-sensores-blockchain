@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "Se você utilizar este software, por favor cite-o conforme abaixo."
+type: software
+title: "Blockchain para Leitura de Sensores"
+abstract: "Protótipo de blockchain permissionada em Python para registro íntegro e verificável de leituras de sensores (temperatura) em meios navais, com programa Arduino para aquisição dos dados."
+authors:
+  - family-names: "Almeida"
+    given-names: "Rodrigo"
+    affiliation: "Centro de Instrução Almirante Alexandrino (CIAA), Marinha do Brasil"
+version: "1.0.0"
+date-released: "2023-11-01"
+license: MIT
+repository-code: "https://github.com/SEU_USUARIO/blockchain-leitura-sensores"
+keywords:
+  - "blockchain"
+  - "python"
+  - "arduino"
+  - "sensores"
+  - "IoT"
+  - "segurança da informação"
+  - "Marinha do Brasil"
+references:
+  - type: thesis
+    title: "Aplicabilidade da Tecnologia do Blockchain na Marinha do Brasil"
+    authors:
+      - family-names: "Almeida"
+        given-names: "Rodrigo"
+    institution:
+      name: "Centro de Instrução Almirante Alexandrino (CIAA), Marinha do Brasil"
+      city: "Rio de Janeiro"
+    year: 2023
+    thesis-type: "Trabalho de Conclusão de Curso (Curso de Aperfeiçoamento Avançado em Segurança da Informação e Comunicações)"
